@@ -1,5 +1,5 @@
 # Horizon-Graphs
-#Tecnológico de Costa Rica
+# Tecnológico de Costa Rica
 
 Ingeniería en Computación
 
@@ -7,7 +7,7 @@ Visualización de Información
 
 Grupo 1
 
-###Proyecto 1 - Horizon Graphs
+### Proyecto 1 - Horizon Graphs
 
 Integrantes:
 
