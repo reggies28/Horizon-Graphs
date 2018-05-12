@@ -1,0 +1,22 @@
+[
+    {"id":"1","temperature":0,"pressure":0.00002},
+    {"id":"2","temperature":20,"pressure":0.0012},
+    {"id":"3","temperature":40,"pressure":0.006},
+    {"id":"4","temperature":60,"pressure":0.03},
+    {"id":"5","temperature":80,"pressure":0.09},
+    {"id":"6","temperature":100,"pressure":0.27},
+    {"id":"7","temperature":120,"pressure":0.75},
+    {"id":"8","temperature":140,"pressure":1.85},
+    {"id":"9","temperature":160,"pressure":4.2},
+    {"id":"10","temperature":180,"pressure":8.8},
+    {"id":"11","temperature":200,"pressure":17.3},
+    {"id":"12","temperature":220,"pressure":32.1},
+    {"id":"13","temperature":240,"pressure":57},
+    {"id":"14","temperature":260,"pressure":96},
+    {"id":"15","temperature":280,"pressure":157},
+    {"id":"16","temperature":300,"pressure":247},
+    {"id":"17","temperature":320,"pressure":376},
+    {"id":"18","temperature":340,"pressure":558},
+    {"id":"19","temperature":360,"pressure":806}
+
+]
